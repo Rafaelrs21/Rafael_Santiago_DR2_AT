@@ -1,6 +1,5 @@
 package refact.entity;
 
-import refact.enums.TipoFrete;
 
 public final class Entrega {
     private final String endereco;
